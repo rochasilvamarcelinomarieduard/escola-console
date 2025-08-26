@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Boa noite
+=======
+Boa noite
+>>>>>>> 8dd04bb9f5002dbd2010be19f43dc320cf468646
